@@ -19,8 +19,8 @@ dotnet watch run
 ```
 
 ### Access API
-- **Swagger UI**: `https://localhost:5001/swagger`
-- **API Base**: `https://localhost:5001/api`
+- **Swagger UI**: `https://localhost:5002/swagger/index.html`
+- **API Base**: `https://localhost:5002/api`
 
 ### Run Tests
 
