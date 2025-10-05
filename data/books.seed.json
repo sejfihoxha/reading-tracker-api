@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "pages": 464,
+    "genres": ["Software", "Best Practices"]
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "year": 1999,
+    "pages": 352,
+    "genres": ["Software"]
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "year": 2016,
+    "pages": 304,
+    "genres": ["Productivity"]
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "year": 2018,
+    "pages": 352,
+    "genres": ["Memoir"]
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "pages": 512,
+    "genres": ["Psychology"]
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "year": 2011,
+    "pages": 336,
+    "genres": ["Business", "Startup"]
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2014,
+    "pages": 443,
+    "genres": ["History", "Anthropology"]
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "pages": 320,
+    "genres": ["Self-Help", "Psychology"]
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "pages": 224,
+    "genres": ["Fiction", "Philosophy"]
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "pages": 688,
+    "genres": ["Science Fiction"]
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": 1979,
+    "pages": 224,
+    "genres": ["Science Fiction", "Humor"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "pages": 376,
+    "genres": ["Fiction", "Classics"]
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "pages": 328,
+    "genres": ["Fiction", "Dystopian"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "pages": 277,
+    "genres": ["Fiction", "Classics"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "pages": 432,
+    "genres": ["Fiction", "Romance", "Classics"]
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "pages": 180,
+    "genres": ["Fiction", "Classics"]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "pages": 309,
+    "genres": ["Fiction", "Fantasy", "Young Adult"]
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "pages": 1216,
+    "genres": ["Fiction", "Fantasy"]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "year": 2003,
+    "pages": 689,
+    "genres": ["Fiction", "Thriller"]
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "year": 2011,
+    "pages": 656,
+    "genres": ["Biography", "Technology"]
+  }
+]
